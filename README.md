@@ -131,6 +131,10 @@ Valores del Circuito Equivalente de Thévenin
 
 ### RESULTADOS
 
+Los valores calculados y simulados, son casi exactamente iguales, respecto al margen de error, se reduce a milésimas, puesto que el simulador TINKERCAD, tiende a redondear los resultados a dos decimales, pero en un espectro general, los valores tanto calculados como medidos, son los mismos.
+
+En cuanto a los resultados experimentales si existe un margen de diferencia considerable puesto que para los circuitos físicos se utilizo fuentes de voltaje muy distintas siendo de 9 V y 3 V, de forma que existe una diferencia, también hay que tener en cuenta que existe un margen de error entre ambos circuitos dependiendo de las resistencias y fuentes puesto que sus valores no son 100% iguales y por ende las medidas no son 100% iguales, existiendo una margen de diferencia.
+
 ## VIDEO
 
 
