@@ -61,27 +61,75 @@ Las ventajas de aplicar este teorema son:
 
 #### MATERIALES
 
+![image](https://user-images.githubusercontent.com/105565683/177607985-667f85f8-2f89-489f-9fe5-ecd4b163aa43.png)
 
+![image](https://user-images.githubusercontent.com/105565683/177608021-78e9639e-6dd5-4592-9f10-75fa158f2b91.png)
 
 #### PROCESO
 
+1. Ubicamos las resistencias como se muestra en el esquema del circuito.
 
+![image](https://user-images.githubusercontent.com/105565683/177608348-551b0238-9be0-40c3-96ec-50efbb2abea1.png)
+
+2. Conectar las resistencias por medio de los cables de acuerdo con el esquema, que cumpla con el circuito mixto.
+
+![image](https://user-images.githubusercontent.com/105565683/177608476-b3a94026-56ab-4b2a-a1af-f74ad8e27be6.png)
+
+3. Conectamos las fuentes de voltaje C.D. (en caso de simulador), de acuerdo al esquema, en los polos positivo y negativo de las resistencias.
+
+![image](https://user-images.githubusercontent.com/105565683/177608672-618ea149-35d6-4be3-9e7d-f74dd5b24709.png)
 
 #### CIRCUITO FISICO
 
+Siguiendo el mismo proceso, armamos el circuito físico:
 
+### TEOREMA DE THÉVENIN 
 
-### MÉTODO DE SUPERPOSICIÓN
+![image](https://user-images.githubusercontent.com/105565683/177608764-58f0b8db-be60-489a-a7ee-ce959832b5bd.png)
 
+Para encontrar R_TH y V_TH, seguimos los siguientes pasos:
 
+![image](https://user-images.githubusercontent.com/105565683/177608894-12b4b43a-364f-493e-9018-8f80f3ebae09.png)
+
+![image](https://user-images.githubusercontent.com/105565683/177608958-fb20301c-4c8d-4252-8945-816ae117e266.png)
+
+![image](https://user-images.githubusercontent.com/105565683/177609074-d84607cb-0073-4df5-83a3-9117f7b4b2a7.png)
+
+![image](https://user-images.githubusercontent.com/105565683/177609118-33d6350d-ccad-4208-a47b-d6e010c8ba09.png)
+
+![image](https://user-images.githubusercontent.com/105565683/177609159-91f01f16-70c3-47b3-9959-cfd51fbaa64c.png)
+
+![image](https://user-images.githubusercontent.com/105565683/177609188-d9ab61fd-6755-4ed3-a997-432521940117.png)
 
 ## RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ### MEDICIONES DE VOLTAJE Y CORRIENTE
 
+1. Medir el voltaje y corriente en R5 en el circuito original.
+
+![image](https://user-images.githubusercontent.com/105565683/177609781-a8c07374-b2f8-49e0-a4c0-d1df328bb41c.png)
+
+2. Medir el voltaje del circuito abierto con R5 desconectado.
+
+![image](https://user-images.githubusercontent.com/105565683/177610052-c7c28ac5-a84e-4749-9059-327868e89d89.png)
+
+3. Medir la corriente resultante con R5 desconectado y anulando el efecto de las fuentes.
+
+![image](https://user-images.githubusercontent.com/105565683/177610445-ef7b76d2-9455-4593-b939-23c3c1bb1739.png)
+
+4. Medir el voltaje y corriente en R5 en el circuito de Thévenin.
+
+![image](https://user-images.githubusercontent.com/105565683/177610775-1c96c377-8f0f-449e-9fdb-2fd287782496.png)
+
+5.Comparar los resultados obtenidos de voltaje, corriente y resistencia.
+
+Para el circuito físico se utilizaron baterías y pilas para las fuentes de voltaje, siendo de 3 V y 9 V, por ende, existirá una ligera diferencia entre los resultados, también se tomarán en cuenta los resultados obtenidos en ambos circuitos del grupo.
+
+Valores del Circuito Equivalente de Thévenin
+
+
 
 ### RESULTADOS
-
 
 ## VIDEO
 
