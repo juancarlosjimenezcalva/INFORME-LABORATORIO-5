@@ -125,9 +125,9 @@ Para encontrar R_TH y V_TH, seguimos los siguientes pasos:
 
 Para el circuito físico se utilizaron baterías y pilas para las fuentes de voltaje, siendo de 3 V y 9 V, por ende, existirá una ligera diferencia entre los resultados, también se tomarán en cuenta los resultados obtenidos en ambos circuitos del grupo.
 
-Valores del Circuito Equivalente de Thévenin
+Valores del Circuito Equivalente de Thévenin.
 
-
+Comprobación del Teorema de Thévenin.
 
 ### RESULTADOS
 
