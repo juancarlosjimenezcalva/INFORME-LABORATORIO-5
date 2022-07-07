@@ -127,7 +127,15 @@ Para el circuito físico se utilizaron baterías y pilas para las fuentes de vol
 
 Valores del Circuito Equivalente de Thévenin.
 
-Comprobación del Teorema de Thévenin.
+![image](https://user-images.githubusercontent.com/105565683/177664312-dc16537d-d58c-4f15-9196-de4b81240d0b.png)
+
+Comprobación del Teorema de Thévenin en el circuito original.
+
+![image](https://user-images.githubusercontent.com/105565683/177664338-4a59edcd-86d3-41b3-9dd7-e221514dded0.png)
+
+Comprobación del Teorema de Thévenin en el circuito de Thévenin.
+
+![image](https://user-images.githubusercontent.com/105565683/177664406-569403ec-c80f-43f9-977f-5e86739a4d16.png)
 
 ### RESULTADOS
 
